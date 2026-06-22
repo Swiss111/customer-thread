@@ -6,7 +6,11 @@ Dataset: Customer Shopping Trends Dataset
 
 * Project Preview:
 
-* ![retail power.png](https://github.com/Swiss111/Swissmain.github.io/blob/f7db56e8bd54bb0d63357159e00b4fd8bfad048d/assets/images/retail%20power.png)
+* ![assets/images/cst  .png](https://github.com/Swiss111/Swissmain.github.io/blob/97a180d05ea0f9342dd3b13440479f75bce31d0c/assets/images/cst%20%20.png)
+
+
+  ![assets/images/cst 2.png](https://github.com/Swiss111/Swissmain.github.io/blob/97a180d05ea0f9342dd3b13440479f75bce31d0c/assets/images/cst%202.png)
+
 
 
 The goal of this Power BI dashboard project is to analyze customer shopping behavior, payment preferences, shipping trends, demographic patterns, product category performance, promotional effectiveness, and seasonal purchasing trends to support data-driven business decisions and improve customer experience.
